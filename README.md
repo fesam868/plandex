@@ -48,7 +48,7 @@
 <a href="https://github.com/plandex-ai/plandex/releases?q=server"><img src="https://img.shields.io/github/v/release/plandex-ai/plandex?filter=server*" alt="Release" /></a>
 
   <!-- <a href="https://github.com/your_username/your_project/issues">
-    <img src="https://img.shields.io/github/issues-closed/your_username/your_project.svg" alt="Issues Closed" />
+    <img src="https://img.shields.io/github/issues-closed/your_username/your_project.svg" alt="Issues Closed" />What is Reference  and type  of reference  
   </a> -->
 
 </p>
